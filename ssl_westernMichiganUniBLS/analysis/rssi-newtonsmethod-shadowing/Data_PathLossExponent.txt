@@ -1,0 +1,3 @@
+Power_ref -64.0432
+PathLossExponent 1.30937
+d0 1
